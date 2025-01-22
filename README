@@ -1,0 +1,8 @@
+To run the game, go to engine.Controller and run.
+You can choose whether to battle an AI or not.
+The AI's difficulty can be set from 1-5 where 1 is easy and 5 is very hard.
+A difficulty of 2 is recommended for both playability and performance.
+Green cities belong to the player.
+Yellow cities are player cities under siege.
+Red cities are AI controlled cities.
+White cities are neutral.
